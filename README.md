@@ -62,4 +62,4 @@ By deploying this system, we aim to achieve the following outcomes:
 ## 👤 Author
 **Chukwuebuka Jeremiah Enoch** *Data Analyst & Business Intelligence Developer*
 
-Let's connect on [LinkedIn](https://www.linkedin.com/) to discuss how data can transform the African financial sector.
+Let's connect on [LinkedIn](https://www.linkedin.com/in/chukwuebuka-enoch/) to discuss how data can transform the African financial sector.
