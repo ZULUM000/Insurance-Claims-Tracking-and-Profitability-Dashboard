@@ -1,1 +1,1 @@
-# Insurance-Claims-Tracking-and-Profitability-Dashboard
+# Insurance Claims Tracking and Profitability Dashboard
